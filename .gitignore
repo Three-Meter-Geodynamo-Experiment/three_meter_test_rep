@@ -1,4 +1,4 @@
 *.mat
 *.m~
 /.git
-.DC_Store
+*.DS_Store
