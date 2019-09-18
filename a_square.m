@@ -4,6 +4,6 @@ function [result] = a_square(a)
 result = a.^2; %fixed by Heidi Myers 09/18/2019
 %OH HI MARK
 %TRY AGAIN
-
+%ch ch ch changes
 end
 
